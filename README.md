@@ -7,3 +7,4 @@ i have added one line
 
 amzing practacing, becoming great
 
+the Github is amazing for developers
